@@ -1,0 +1,1 @@
+Hello GitHub Actions. This file is used to test the vowel frequency analyzer.
